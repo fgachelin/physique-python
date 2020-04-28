@@ -1,4 +1,4 @@
-## Mettre *jupyter notebook .ipynb* exécutables par les visiteurs
+## Rendre facilement les *jupyter notebook .ipynb* exécutables par les visiteurs
 
 * créer les *.ipynb* sur son propre serveur *jupyter notebook*
 
@@ -6,11 +6,8 @@
 
 * URL obligatoirement sur un dépôt type gitlab, github par *Clone with HTTPS*. Pas de dépôt sur site perso! 
 
-
-
-
 ## Remarques
 
 * Choix de github car framagit n'affiche pas correctement le latex du markdown
 
-* latex dans md seulement sur .ipynb, ne fonctionne pas dans .md
+* latex dans md seulement sur .ipynb, ne fonctionne pas dans .md. Par exemple $E=mc^2$...
