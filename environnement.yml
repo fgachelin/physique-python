@@ -1,4 +1,6 @@
 name: mon_environment
+channels:
+  - conda-forge
 dependencies:
   - numpy
   - matplotlib
