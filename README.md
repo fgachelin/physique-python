@@ -6,9 +6,9 @@ Pour exécuter ou modifier les codes python de ce dépôt, cliquer sur [![Binder
 
 Les fichiers que vous enregistrerez ne sont ensuite visibles ou modifiables que 
 
-* si vous utilisez un éditeur en ligne comme **colaboratory** par exemple si vous avez un compte gmail.com (plus simple)
+* si vous utilisez un éditeur en ligne comme *colaboratory* par exemple si vous avez un compte *google* (plus simple)
 
-* si vous avez installé les serveurs **jupyter notebook**, **jupyterlab** sur votre pc (mieux!)
+* si vous avez installé les serveurs *jupyter notebook* ou *jupyterlab* en installant *anacaonda* par exemple (mieux!)
 
 Quelques liens
 ========
