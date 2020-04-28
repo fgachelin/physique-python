@@ -6,4 +6,11 @@
 
 * URL obligatoirement sur un dépôt type gitlab, github par *Clone with HTTPS*. Pas de dépôt sur site perso! 
 
-* Choix de github car framagit n'affiche pas correctement le latex du markdown $sin(\alpha)=\frac{AC}{AB}$
+
+
+
+## Remarques
+
+* Choix de github car framagit n'affiche pas correctement le latex du markdown
+
+* latex dans md seulement sur .ipynb, ne fonctionne pas dans .md
