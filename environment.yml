@@ -1,10 +1,8 @@
-channels:
-    - conda-forge
+name: stats
 dependencies:
-    - matplotlib
     - numpy
+    - pandas
+    - matplotlib
     - pandoc
-    - jupyterlab>=0.35
     - pip:
-      - jupyterlab_latex
-      - npconvert
+        - npconvert
