@@ -13,6 +13,5 @@ dependencies:
   - pandoc
   - pandocfilters
   - pip
-  - jupyter-cjk-xelatex
   - scipy
   - sphinx
