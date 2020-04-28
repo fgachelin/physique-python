@@ -3,6 +3,7 @@ channels:
 dependencies:
     - matplotlib
     - numpy
+    - pandoc
     - jupyterlab>=0.35
     - pip:
       - jupyterlab_latex
