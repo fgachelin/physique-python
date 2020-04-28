@@ -1,6 +1,6 @@
 # Physique - simulations python
 
-Pour exécuter ou modifier les codes python de ce dépôt, cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
+Pour exécuter ou modifier les codes python des *jupyter netbook* de ce dépôt, cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
 
 # Attention
 
@@ -14,8 +14,6 @@ Quelques liens
 ========
 
 * animations [geogebra](https://www.geogebra.org/u/fgachelin).
-
-* simulations pythons [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
 
 * questionnaires de physique [qcm]()
 
