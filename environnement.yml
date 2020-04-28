@@ -1,0 +1,5 @@
+name: mon_environment
+dependencies:
+  - numpy
+  - matplotlib
+  
