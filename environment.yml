@@ -1,10 +1,8 @@
-name: mon_environment
 channels:
-  - conda-forge
+    - conda-forge
 dependencies:
-  - numpy
-  - matplotlib
-  - pip
-  - pip:
+    - matplotlib
+    - numpy
+    - jupyterlab>=0.35
+    - pip:
       - jupyterlab_latex
-  
