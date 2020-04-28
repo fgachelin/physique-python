@@ -2,9 +2,9 @@
 
 Pour exécuter ou modifier les codes python des *jupyter netbook* de ce dépôt, cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
 
-# Attention
+# Remarques
 
-Les fichiers que vous enregistrerez ne sont ensuite visibles ou modifiables que 
+Si vous souhaitez télécharger les fichiers *jupyter netbook .ipynb*, sachez qu'ils ne peuvent être ensuite exécutés que 
 
 * si vous utilisez un éditeur en ligne comme [colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) par exemple si vous avez un compte *google* (simple et rapide)
 
