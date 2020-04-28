@@ -8,7 +8,7 @@ Si vous souhaitez télécharger les fichiers *jupyter netbook .ipynb*, sachez qu
 
 * si vous utilisez un éditeur en ligne comme [colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) par exemple si vous avez un compte *google* (simple et rapide)
 
-* si vous avez installé les serveurs *jupyter notebook* ou *jupyterlab* en installant 
+* si vous avez installé un serveur *jupyter notebook* ou *jupyterlab* en installant 
 [anaconda](https://www.anaconda.com/products/individual) par exemple (meilleur choix)
 
 ## Quelques liens sur la physique niveau lycée
