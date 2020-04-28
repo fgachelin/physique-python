@@ -1,6 +1,6 @@
 # physique-python
 
-Pour exécuter ou modifier les codes python de ce dépôt, cliquer sur sur 
+Pour exécuter ou modifier les codes python de ce dépôt, cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
 
 # Attention
 
