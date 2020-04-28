@@ -11,7 +11,7 @@ Si vous souhaitez télécharger les fichiers *jupyter netbook .ipynb*, sachez qu
 * si vous avez installé les serveurs *jupyter notebook* ou *jupyterlab* en installant 
 [anaconda](https://www.anaconda.com/products/individual) par exemple (meilleur choix)
 
-Quelques liens
+Quelques liens sur la physique niveau lycée
 ========
 
 * animations [geogebra](https://www.geogebra.org/u/fgachelin).
