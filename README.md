@@ -1,8 +1,8 @@
-# Physique - simulations python
+## Physique - simulations python
 
 Pour exécuter ou modifier les codes python des *jupyter netbook* de ce dépôt, cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
 
-# Remarques
+## Remarques
 
 Si vous souhaitez télécharger les fichiers *jupyter netbook .ipynb*, sachez qu'ils ne peuvent être ensuite exécutés que 
 
