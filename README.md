@@ -6,7 +6,7 @@ Pour exécuter ou modifier les codes python des *jupyter netbook* de ce dépôt,
 
 Les fichiers que vous enregistrerez ne sont ensuite visibles ou modifiables que 
 
-* si vous utilisez un éditeur en ligne comme *colaboratory* par exemple si vous avez un compte *google* (simple et rapide)
+* si vous utilisez un éditeur en ligne comme [colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) par exemple si vous avez un compte *google* (simple et rapide)
 
 * si vous avez installé les serveurs *jupyter notebook* ou *jupyterlab* en installant 
 [anaconda](https://www.anaconda.com/products/individual) par exemple (meilleur choix)
