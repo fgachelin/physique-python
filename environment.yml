@@ -7,3 +7,4 @@ dependencies:
     - jupyterlab>=0.35
     - pip:
       - jupyterlab_latex
+      - npconvert
