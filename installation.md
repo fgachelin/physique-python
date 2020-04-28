@@ -13,3 +13,5 @@
 * *Colaboratory* nécessite un compte google, et l'export *.pdf* est impossible.
 
 * Rendu Latex seulement sur *.ipynb*, ne fonctionne pas dans fichier *.md*. Par exemple $E=mc^2$...
+
+pdf avec latex fonctionnait mais pas matplotlib. apres fichier yml, matplotlib foonctionne masi pas export pdf...plus texlive
