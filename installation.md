@@ -4,6 +4,6 @@
 
 * [myblinder.org] est le serveur jupyter notebook en ligne
 
-* URL sur un dépôt type gitlab, github. Pas de dépôt sur site perso! 
+* URL obligatoirement sur un dépôt type gitlab, github par *Clone with HTTPS*. Pas de dépôt sur site perso! 
 
 * Choix de github car framagit n'affiche pas correctement le latex du markdown
