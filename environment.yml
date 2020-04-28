@@ -4,6 +4,7 @@ channels:
 dependencies:
   - numpy
   - matplotlib
+  - pip
   - pip:
       - jupyterlab_latex
   
