@@ -4,7 +4,7 @@
 
 * fichiers *.ipynb* obligatoirement dans un dépôt gitlab, github. Pas de dépôt sur site perso! 
 
-* URL du dépôt *Clone with HTTPS* à insérer dans [myblinder.org](myblinder.org), un serveur jupyter notebook en ligne, où il est possible d'avoir également ce lien à insérer 
+* URL du dépôt *Clone with HTTPS* à insérer dans [myblinder.org](myblinder.org), un serveur jupyter notebook en ligne, où il est possible d'avoir également ce lien à insérer [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master) où on le souhaite.
 
 ## Remarques sur le choix de github
 
