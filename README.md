@@ -26,5 +26,3 @@ Lancer un serveur jupyter notebook en ligne en cliquant sur [![Binder](https://m
 
 * animations [geogebra](https://www.geogebra.org/u/fgachelin).
 
-* questionnaires de physique [qcm]()
-
