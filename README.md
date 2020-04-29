@@ -1,7 +1,7 @@
 # Python - Physique - Chimie - NSI
 
-Les activités sont sous forme de *jupyter netbook* `.ipynb` qui permettent d'utiliser sur le même documents
-du texte (markdown+Latex) et du code python exécutable. 
+Les activités sont sous forme de *jupyter netbook*`.ipynb` qui permettent d'utiliser sur le même documents
+du texte (*markdown+Latex*) et du code *python* exécutable directement depuis sur le document. 
 
 ## Voir les sources
 
@@ -12,7 +12,7 @@ cf explorateur de fichiers ci-dessus
 Cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master). 
 Tous les fichiers seront copiés et vous pourrez alors les modifier, les exécuter les télécharger au format `.ipynb`, `pdf`, `.html`...
 
-Si vous souhaitez télécharger les fichiers `jupyter netbook .ipynb`, sachez qu'ils ne peuvent être ensuite exécutés que 
+Si vous souhaitez télécharger les fichiers`.ipynb`, sachez qu'ils ne peuvent être ensuite exécutés que 
 
 * si vous utilisez un éditeur en ligne comme [colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) par exemple si vous avez un compte *google* (simple et rapide)
 
