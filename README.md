@@ -7,9 +7,8 @@ du texte (*markdown+Latex*) et du code *python* exécutable directement depuis s
 
 cf explorateur de fichiers ci-dessus
 
-## Voir les sources et exécuter les codes
+## Voir les sources et exécuter les codes: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master). 
 
-Cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master). 
 Tous les fichiers seront copiés et vous pourrez alors les modifier, les exécuter les télécharger au format `.ipynb`, `pdf`, `.html`...
 
 Si vous souhaitez télécharger les fichiers`.ipynb`, sachez qu'ils ne peuvent être ensuite exécutés que 
