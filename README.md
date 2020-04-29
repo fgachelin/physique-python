@@ -1,4 +1,10 @@
-## Physique - simulations python
+# Physique - simulations python
+
+## Voir les sources
+
+[Oscillateur libre.ipynb](Oscillateur libre.ipynb)
+
+## Voir les sources et exécuter les codes
 
 Pour exécuter ou modifier les codes python des *jupyter netbook* de ce dépôt, cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
 
