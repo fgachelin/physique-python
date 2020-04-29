@@ -1,12 +1,16 @@
-# Physique - simulations python
+# Python - Physique - Chimie - NSI
+
+Les activités sont sous forme de *jupyter netbook .ipynb* qui permettent d'utiliser sur le même documents
+du texte (markdown+Latex) et du code python exécutable. 
 
 ## Voir les sources
 
-[Oscillateur libre](Oscillateur+libre.ipynb)
+cf explorateur de fichiers ci-dessus
 
 ## Voir les sources et exécuter les codes
 
-Pour exécuter ou modifier les codes python des *jupyter netbook* de ce dépôt, cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
+Pour exécuter ou modifier le contenu de ce dépôt, cliquer sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master). 
+Tous les fichiers seront copiés et vous pourrez  alors les modifier.
 
 ## Remarques
 
