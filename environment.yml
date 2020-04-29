@@ -1,9 +1,4 @@
-name: base
-channels:
-  - conda-forge
 dependencies:
   - matplotlib
-  - nbconvert
   - numpy
-  - pandocfilters
   - scipy
