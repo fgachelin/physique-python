@@ -7,7 +7,9 @@ du texte (*markdown+Latex*) et du code *python* exécutable directement depuis s
 
 cf explorateur de fichiers ci-dessus
 
-## Voir les sources et exécuter les codes -> [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
+## Voir les sources et exécuter les codes
+
+Lancer un serveur jupyter notebbok en ligne en cliquant sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
 
 Tous les fichiers seront copiés et vous pourrez alors les modifier, les exécuter les télécharger au format `.ipynb`, `pdf`, `.html`...
 
