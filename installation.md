@@ -8,18 +8,23 @@
 
 ## Remarques sur le choix de github
 
+
 * *Gitlab*, *Framagit* n'affichent pas correctement le latex du markdown.
+
 
 * *Colaboratory* nécessite un compte google, et l'export *.pdf* est impossible.
 
+
 * Rendu Latex seulement sur *.ipynb*, ne fonctionne pas dans fichier *.md*. Par exemple $E=mc^2$...
+
 
 ## A savoir
 
-* *apt.txt* contient ce que debian local du serveur doit installer, notament texlive pour la création des *.pdf*.
+
+* *apt.txt* contient ce que debian local du serveur doit installer, notament *texlive* pour la création des *.pdf*.
+
 
 * *requirements.txt* continent les modules python à installer par *pip*.
 
-## Problèmes actuels
 
 * pdf avec latex fonctionnait mais pas matplotlib. apres fichier yml, matplotlib foonctionne masi pas export pdf...plus texlive
