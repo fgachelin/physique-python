@@ -9,16 +9,18 @@ cf explorateur de fichiers ci-dessus
 
 ## Voir les sources et exécuter les codes
 
-Lancer un serveur jupyter notebbok en ligne en cliquant sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
+Lancer un serveur jupyter notebook en ligne en cliquant sur [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fgachelin/physique-python.git/master)
 
-Tous les fichiers seront copiés et vous pourrez alors les modifier, les exécuter les télécharger au format `.ipynb`, `pdf`, `.html`...
+### Remarques
 
-Si vous souhaitez télécharger les fichiers`.ipynb`, sachez qu'ils ne peuvent être ensuite exécutés que 
+* Tous les fichiers seront copiés et vous pourrez alors les modifier, les exécuter les télécharger au format `.ipynb`, `pdf`, `.html`...
 
-* si vous utilisez un éditeur en ligne comme [colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) par exemple si vous avez un compte *google* (simple et rapide)
+* Si vous souhaitez télécharger les fichiers`.ipynb`, sachez qu'ils ne peuvent être ensuite exécutés que 
 
-* si vous avez installé un serveur *jupyter notebook* ou *jupyterlab* en installant 
-[anaconda](https://www.anaconda.com/products/individual) par exemple (meilleur choix)
+  * si vous utilisez un éditeur en ligne comme [colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) par exemple si vous avez un compte *google* (simple et rapide)
+
+  * si vous avez installé un serveur *jupyter notebook* ou *jupyterlab* en installant 
+  [anaconda](https://www.anaconda.com/products/individual) par exemple (meilleur choix)
 
 ## Quelques liens sur la physique niveau lycée
 
