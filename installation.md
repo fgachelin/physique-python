@@ -14,6 +14,12 @@
 
 * Rendu Latex seulement sur *.ipynb*, ne fonctionne pas dans fichier *.md*. Par exemple $E=mc^2$...
 
-pdf avec latex fonctionnait mais pas matplotlib. apres fichier yml, matplotlib foonctionne masi pas export pdf...plus texlive
+## A savoir
 
-Retour normale avec fichier *.yml* créé par conda --
+* *apt.txt* contient ce que debian local du serveur doit installer, notament texlive pour la création des *.pdf*.
+
+* *requirements.txt* continent les modules python à installer par *pip*.
+
+## Problèmes actuels
+
+* pdf avec latex fonctionnait mais pas matplotlib. apres fichier yml, matplotlib foonctionne masi pas export pdf...plus texlive
