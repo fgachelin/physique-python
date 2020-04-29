@@ -1,2 +1,4 @@
 tex 
 latex
+jupyterlab_latex
+notebook
