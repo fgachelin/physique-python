@@ -1,2 +1,3 @@
-jupyterlab-latex
-jupyter-cjk-xelatex
+texlive-xetex
+texlive-fonts-recommended
+texlive-generic-recommended
