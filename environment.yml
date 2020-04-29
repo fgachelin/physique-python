@@ -1,11 +1,9 @@
 name: base
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - matplotlib
   - nbconvert
-  - nbformat
   - numpy
   - pandocfilters
   - scipy
