@@ -13,9 +13,9 @@ Lancer un serveur jupyter notebook en ligne en cliquant sur [![Binder](https://m
 
 ### Remarques
 
-* Tous les fichiers seront copiés et vous pourrez alors les modifier, les exécuter, et les télécharger en`.ipynb`,`pdf`, `.html`...
+* Tous les fichiers seront copiés sur le serveur de *mybinder.org* et vous pourrez alors les modifier, les exécuter, et les télécharger en`.ipynb`,`pdf`, `.html`...
 
-* Si vous souhaitez télécharger les fichiers`.ipynb`, sachez qu'ils ne peuvent être ensuite exécutés que 
+* Si vous souhaitez télécharger les fichiers`.ipynb`, sachez qu'ils ne peuvent être ensuite exécutés sur votre pc que 
 
   * si vous utilisez un éditeur en ligne comme [colaboratory](https://colab.research.google.com/notebooks/intro.ipynb) par exemple si vous avez un compte *google* (simple et rapide)
 
