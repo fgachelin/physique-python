@@ -2,7 +2,7 @@
 
 ## Voir les sources
 
-![Oscillateur libre.ipynb](Oscillateur libre.ipynb)
+![Oscillateur libre](docs/Oscillateur libre.ipynb)
 
 ## Voir les sources et exécuter les codes
 
